@@ -1,4 +1,4 @@
-#Installation
+# Installation
 Go to chrome://extensions/
 on the top right of the page make sure "Developer mode" is on
 Click on Load Unpacked on the top left and select the folder with the above files
